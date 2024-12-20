@@ -19,7 +19,7 @@
       "code": "https://github.com/MogiliManikanta/EcommerceFrontend"
     }
   },
-  +  {
+    {
     "name": "Crud Operations React & Redux",
     "desc": "We developed an website we can add and delete and the dit the use details",
     "image": "News-app",
